@@ -55,7 +55,7 @@ This repository accompanies the paper *"Active Wheel Camber Control Strategy for
 ├── License
 └── README.md
 
-## 使用说明
+## 目录结构
 
 在Matlab中将本文件添加并包含在子文件下，保证在运行过程中每个代码以及产生的数据都能进行读取。
 为了方便读者理解圈速仿真模型，本开源库不设置子程序，除了控制策略拟合以及后处理文件，每个.m文件都是独立运行的圈速仿真代码。
