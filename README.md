@@ -65,7 +65,7 @@ This repository accompanies the paper *"Active Wheel Camber Control Strategy for
 如果本仓库的代码或方法对你的研究有帮助，请引用：
 
 ```
-姚全, 章新杰, 冯齐睿, 汪路航, 郭孔辉. 面向圈速最优的主动车轮外倾控制策略[J]. [期刊名称待补充], 2026.
+论文名称待补充 [期刊名称待补充], 2026.
 ```
 
 ## 联系方式
