@@ -54,9 +54,10 @@ This repository accompanies the paper *"Active Wheel Camber Control Strategy for
 ├── 05_PostProcessing/              # 后处理模块
 ├── License
 └── README.md
+```
+## 使用说明
 
-## 目录结构
-
+```
 在Matlab中将本文件添加并包含在子文件下，保证在运行过程中每个代码以及产生的数据都能进行读取。
 为了方便读者理解圈速仿真模型，本开源库不设置子程序，除了控制策略拟合以及后处理文件，每个.m文件都是独立运行的圈速仿真代码。
 
@@ -67,11 +68,12 @@ This repository accompanies the paper *"Active Wheel Camber Control Strategy for
 04_Verification/ 通过拟合后的控制策略代入圈速仿真软件，分析拟合效果。（一阶的并不能收敛到容差，主要原因是并没有按照控制策略重新构建逆动力学代码，收敛性较差，但圈速会稳定在15.2082-15.2080s，并不影响结论。）
 05_PostProcessing/              # 一些后处理脚本，负责对比控制效果。
 
+```
 ## 引用
 
+```
 如果本仓库的代码或方法对你的研究有帮助，请引用：
 
-```
 论文名称待补充 [期刊名称待补充], 2026.
 ```
 
